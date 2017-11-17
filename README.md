@@ -1,2 +1,2 @@
-# shapespy
-Python toolkit for inspecting SHACL shapes
+# ShapeSpy
+Python toolkit for inspecting SHACL shapes.
